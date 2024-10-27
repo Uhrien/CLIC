@@ -1,6 +1,6 @@
-# Clicker Bot
+# CLIC - Customizable Looped Input Clicker
 
-Clicker Bot è un programma sviluppato in Python con interfaccia grafica basata su `CustomTkinter`. Consente di generare automaticamente click del mouse a una frequenza regolabile, fornendo un'interfaccia intuitiva con due modalità operative principali.
+CLIC è un programma sviluppato in Python con interfaccia grafica basata su `CustomTkinter`. Consente di generare automaticamente click del mouse a una frequenza regolabile, fornendo un'interfaccia intuitiva con due modalità operative principali.
 
 ## Funzionalità
 
@@ -19,7 +19,7 @@ Per eseguire questo programma, sono necessari i seguenti moduli Python:
 pip install customtkinter pynput
 *************************
 
-## Come Utilizzare Clicker Bot
+## Come Utilizzare CLIC
 
 1. **Avvio del Programma**: Avvia il programma eseguendo lo script Python. Apparirà una finestra con le seguenti sezioni:
    - **Selettore di Modalità**: Consente di scegliere tra le modalità `Toggle` e `Push to Activate`.
